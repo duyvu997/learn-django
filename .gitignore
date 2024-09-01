@@ -232,7 +232,7 @@ cython_debug/
 # SageMath parsed files
 
 # Environments
-
+dj-env/
 # Spyder project settings
 
 # Rope project settings
